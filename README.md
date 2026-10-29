@@ -1,17 +1,41 @@
-# kampusku
+# Nama : Mochamad Zaky Akbar Sofyan
+# NIM : 24552011323
+# Kelas : TIF RP 24 A CID
 
-A new Flutter project.
+# Kampusku
 
-## Getting Started
+Kampusku adalah aplikasi berbasis Flutter yang dibuat sebagai proyek tugas perkuliahan. Aplikasi ini dikembangkan menggunakan Flutter dan bahasa pemrograman Dart.
 
-This project is a starting point for a Flutter application.
+## Teknologi yang Digunakan
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter
+- Dart
+- Android Studio
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Menjalankan Aplikasi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Pastikan Flutter sudah terpasang di komputer.
+2. Clone repository ini.
+3. Buka folder proyek melalui terminal.
+4. Jalankan perintah berikut untuk mengunduh dependensi:
+
+   ```bash
+   flutter pub get
+   ```
+
+5. Jalankan aplikasi menggunakan perintah:
+
+   ```bash
+   flutter run
+   ```
+
+## Struktur Proyek
+
+- `lib/` — Berisi kode utama aplikasi.
+- `android/` — Konfigurasi untuk menjalankan aplikasi di Android.
+- `web/` — Berkas pendukung untuk platform web.
+- `pubspec.yaml` — Konfigurasi proyek dan dependensi Flutter.
+
+## Pengembang
+
+Proyek ini dibuat untuk memenuhi tugas perkuliahan pengembangan aplikasi menggunakan Flutter.
